@@ -1,0 +1,15 @@
+
+
+
+1. Descreva possíveis otimizações de performance que você poderia fazer no seu
+ próprio código.
+ 
+ R. Um dos passos para realizar o projeto, era gerar todos os post e ao clicar em algum deles o titulo e o corpo do mesmo, deveriam ser mostrado. Porém no meu projeto,
+o post só poderar ser visto se o usuário indicar o id, constando assim uma falha, porém, ela não muda o resultado final. Essa seria possíveis otimizações a ser realizadas
+deixando os passos do projeto da maneira que foi pedida.
+
+
+
+2. O que você poderia ter melhorado?
+
+ R. Eu melhoria a UI do projeto, implementando algumas bibliotecas e deixando o font end mais atrativo.
