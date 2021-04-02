@@ -1,0 +1,43 @@
+body {
+   background:#ffce62;
+   font-family: sans-serif, tahoma, serif;
+
+}
+
+ body #result main #sct1 {
+    background: azure;
+    padding: 8px;
+    margin: 15px;
+}
+
+body #result main #sct2 {
+     background: white;
+     padding: 8px;
+     margin: 15px;
+}
+main {
+    margin: 80px 20px 20px 20px;
+    padding: 20px;
+}
+
+#result main h2 {
+    color: black;
+    text-align: center;
+}
+#app form {
+    margin: 20px 20px 20px 20px;
+}
+#app form input {
+    width: 91px;
+    height: 20px;
+    margin: 20px 20px 20px 20px;
+}
+
+
+#app form button {
+    width: 100px;
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+    
+}
+
