@@ -1,6 +1,4 @@
 
-
-
 1. Descreva possíveis otimizações de performance que você poderia fazer no seu
  próprio código.
  
